@@ -1,4 +1,4 @@
-# Python-OOP-Projects 
+# Python OOP Projects 
 
 This is a collection of small python projects implemented to gain a practical understanding of the concepts of object oriented programming with python.  
 
