@@ -2,7 +2,6 @@ from move import Move
 from board import Board
 from player import Player
 
-
 class TicTacToe:
 
 
